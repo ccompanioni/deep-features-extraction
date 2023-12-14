@@ -1,4 +1,4 @@
-Include the models:
+Include the models (https://www.vlfeat.org/matconvnet/pretrained/):
 
 imagenet-googlenet-dag
 
